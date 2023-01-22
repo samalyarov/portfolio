@@ -6,6 +6,7 @@ The beneficiary of this research is a bank. More specifically - the crediting de
 2. People earning 200.000 - 1.000.000 rubles per month are 13% less likely to delay their payments. In general, there is a correlation between client's salary and his likelyhood to delay payments, although that requires further analysis due to small sample size. Another "reliable" income group is people with income ranging between 30 and 50 thousand rubles, but likewise, the sample size is too small to make any statistically viable conclusions.
 3. Share of people with payment delays is 13% higher among those with kids (compared to those without), but there is no significant difference among people with different number of children.
 4. People, that are "living together, not married" feature a 14% higher than average share of people with payment delays. Another "risky group" are unmarried people (20% higher). The safest group are widows (19% lower than average share of payment delays).
+5. More detailed analysis can be found in the .ipynb file attached.
 
 # Data:
 Data from analysis has been provided by the bank. Data points for each client:
