@@ -1,7 +1,7 @@
 # Project description:
 Project includes preliminary research of various tariffs on a sample of telecom company clients. Analysis of client's behaviour has been conducted in regards to common practices of company's services usage. The final result of such analysis are optimal tariff options for various clients, which were recommended for use by the company.
 
-Project consists of data pre-processing and their subsequent analysis. 
+Project consists of data pre-processing and its subsequent analysis. 
 
 Main questions answered: is there a difference between overall profitability of different tariffs (and if so - then what is that difference), and is there a difference between clients from Moscow and other regions (in regards to how much money they bring the company).
 
