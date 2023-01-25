@@ -16,20 +16,24 @@ Main questions answered: is there a difference between overall profitability of 
 - 'churn_date' — date of tariffs deactivation by the user (if empty - tariff still in use)
 - 'city' — user's city
 - 'tarif' — user's tariff name
+ 
 "Calls" dataset — information about calls:
 - 'id' — unique call ID
 - 'call_date' — date of the call
 - 'duration' — call duration (minutes)
 - 'user_id' — ID of user making the call
+
 "Messages" dataset — information about messages:
 - 'id' — unique message ID
 - 'message_date' — message date
 - 'user_id' — ID of user sending the message
+
 "Internet" dataset - information about internet-sessions:
 - 'id' — unique session ID
 - 'mb_used' — total traffic used throughout the session (in MB)
 - 'session_date' — session date
 - 'user_id' — ID of session user
+
 "Tariffs" dataset — information about tariffs:
 - 'tariff_name' — tariff name
 - 'rub_monthly_fee' — tariff monthly fee (in RUR)
