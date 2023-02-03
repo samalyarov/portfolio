@@ -13,7 +13,7 @@ Project involves analysis of "Procrastinate Pro+" entertainment app. Despite the
 # Data:
 Dataset has been provided by the app and features data about users acquired between May 1 and October 29 of year 2019.
 Data points feature:
-- File `visits_info_short.csv` keeps server logs on website entries:
+- File `visits_info_short.csv` keeps server logs on website and app entries:
     - *User Id* — users ID
     - *Region* — users country
     - *Device* — users device type (platform used)
