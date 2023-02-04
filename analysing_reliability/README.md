@@ -10,18 +10,18 @@ The beneficiary of this research is a bank. More specifically - the crediting de
 
 # Data:
 Data from analysis has been provided by the bank. Data points for each client:
-- 'children' — number of children
-- 'days_employed' — total number of days employed
-- 'dob_years' — cliends age in years
-- 'education' — education level
-- 'education_id' — education level ID
-- 'family_status' — marital status
-- 'family_status_id' — marital status ID
-- 'gender' — client's gender
-- 'income_type' — income source
-- 'debt' — whether the client has ever delayed his loan peyments
-- 'total_income' — overall monthly income
-- 'purpose' — stated purpose for taking a loan
+- `children` — number of children
+- `days_employed` — total number of days employed
+- `dob_years` — cliends age in years
+- `education` — education level
+- `education_id` — education level ID
+- `family_status` — marital status
+- `family_status_id` — marital status ID
+- `gender` — client's gender
+- `income_type` — income source
+- `debt` — whether the client has ever delayed his loan peyments
+- `total_income` — overall monthly income
+- `purpose` — stated purpose for taking a loan
 
 # Libraries used:
 *pandas, matplotlib, seaborn*
