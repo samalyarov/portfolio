@@ -11,12 +11,12 @@ Some myths do represent reality. Others - are empty words and stories. In order 
 4. More detailed analysis can be found in the .ipynb file attached.
 
 # Data
-- Track name
-- Band|Performer name
-- Genre
-- City
-- Day (logged)
-- Timestamp (logged)
+- `Track name`
+- `Band|Performer name`
+- `Genre`
+- `City`
+- `Day (logged)`
+- `Timestamp (logged)`
 
 # Research goal — to test several hypotheses:
 1. User activity depends on what day of week it is. In addition to general difference - patterns are different in Moscow and Saint P.
