@@ -10,41 +10,41 @@ Main questions answered: is there a difference between overall profitability of 
 
 # Data:
 "Users" dataset - containing information about users:
-- 'user_id' — unique user ID
-- 'first_name' — user's first name
-- 'last_name' — user's last name
-- 'age' — user's age (in years)
-- 'reg_date' — date of tariffs activation by the user (day, month, year)
-- 'churn_date' — date of tariffs deactivation by the user (if empty - tariff still in use)
-- 'city' — user's city
-- 'tarif' — user's tariff name
+- `user_id` — unique user ID
+- `first_name` — user's first name
+- `last_name` — user's last name
+- `age` — user's age (in years)
+- `reg_date` — date of tariffs activation by the user (day, month, year)
+- `churn_date` — date of tariffs deactivation by the user (if empty - tariff still in use)
+- `city` — user's city
+- `tarif` — user's tariff name
  
 "Calls" dataset — information about calls:
-- 'id' — unique call ID
-- 'call_date' — date of the call
-- 'duration' — call duration (minutes)
-- 'user_id' — ID of user making the call
+- `id` — unique call ID
+- `call_date` — date of the call
+- `duration` — call duration (minutes)
+- `user_id` — ID of user making the call
 
 "Messages" dataset — information about messages:
-- 'id' — unique message ID
-- 'message_date' — message date
-- 'user_id' — ID of user sending the message
+- `id` — unique message ID
+- `message_date` — message date
+- `user_id` — ID of user sending the message
 
 "Internet" dataset - information about internet-sessions:
-- 'id' — unique session ID
-- 'mb_used' — total traffic used throughout the session (in MB)
-- 'session_date' — session date
-- 'user_id' — ID of session user
+- `id` — unique session ID
+- `mb_used` — total traffic used throughout the session (in MB)
+- `session_date` — session date
+- `user_id` — ID of session user
 
 "Tariffs" dataset — information about tariffs:
-- 'tariff_name' — tariff name
-- 'rub_monthly_fee' — tariff monthly fee (in RUR)
-- 'minutes_included' — tariff monthly minute allowance
-- 'messages_included' — tariff monthly message allowance
-- 'mb_per_month_included' — tariff monthly internet allowance (in MB)
-- 'rub_per_minute' — cost per minute over the tariff allowance (if the tariff provides 100 minutes - that is how much you would pay for 101-st and so on, in RUR)
-- 'rub_per_message' — cost per message over the tariff allowance
-- 'rub_per_gb' — cost per GB over the tariff allowance
+- `tariff_name` — tariff name
+- `rub_monthly_fee` — tariff monthly fee (in RUR)
+- `minutes_included` — tariff monthly minute allowance
+- `messages_included` — tariff monthly message allowance
+- `mb_per_month_included` — tariff monthly internet allowance (in MB)
+- `rub_per_minute` — cost per minute over the tariff allowance (if the tariff provides 100 minutes - that is how much you would pay for 101-st and so on, in RUR)
+- `rub_per_message` — cost per message over the tariff allowance
+- `rub_per_gb` — cost per GB over the tariff allowance
 
 # Libraries used:
 *pandas, numpy, matplotlib, seaborn, scipy.stats*
