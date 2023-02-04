@@ -13,21 +13,21 @@ Project involves analysis of "Procrastinate Pro+" entertainment app. Despite the
 # Data:
 Dataset has been provided by the app and features data about users acquired between May 1 and October 29 of year 2019.
 Data points feature:
-- File `visits_info_short.csv` keeps server logs on website and app entries:
-    - *User Id* — users ID
-    - *Region* — users country
-    - *Device* — users device type (platform used)
-    - *Channel* — marketing agency ID
-    - *Session Start* — date and time of session start
-    - *Session End* — date and time of session end
-- File `orders_info_short.csv` keeps orders info:
-    - *User Id* — unique user ID
-    - *Event Dt* — date and time of purchase
-    - *Revenue* — order total
-- File `costs_info_short.csv` keeps info on marketing campaigns expenses:
-    - *dt* — marketing campaign date
-    - *Channel* — marketing agency ID
-    - *costs* — marketing campaign expenses
+- File *visits_info_short.csv* keeps server logs on website and app entries:
+    - `User Id` — users ID
+    - `Region` — users country
+    - `Device` — users device type (platform used)
+    - `Channel` — marketing agency ID
+    - `Session Start` — date and time of session start
+    - `Session End` — date and time of session end
+- File *orders_info_short.csv* keeps orders info:
+    - `User Id` — unique user ID
+    - `Event Dt` — date and time of purchase
+    - `Revenue` — order total
+- File *costs_info_short.csv* keeps info on marketing campaigns expenses:
+    - `dt` — marketing campaign date
+    - `Channel` — marketing agency ID
+    - `costs` — marketing campaign expenses
 
 # Libraries used:
 *pandas, numpy, scipy, matplotlib, seaborn, datetime, tqdm*
