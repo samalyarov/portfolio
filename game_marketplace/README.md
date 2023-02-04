@@ -15,17 +15,17 @@ Projects consists of data acquisition, pre-processing, exploratory data analysis
 # Data:
 Dataset has been provided by the marketplace itself and features data about games up to year 2016. The campaigns
 Data points feature:
-- Name — name of the game
-- Platform — platform the game has been released for
-- Year_of_Release — year of release
-- Genre — game genre
-- NA_sales — sales in North America (millions of copies sold)
-- EU_sales — sales in Europe (millions of copies sold)
-- JP_sales — sales in Japan (millions of copies sold)
-- Other_sales — sales in other regions (millions of copies sold)
-- Critic_Score — critic score (1-100)
-- User_Score — user score (1-100)
-- Rating— ESRB (Entertainment Software Rating Board) rating.
+- `Name` — name of the game
+- `Platform` — platform the game has been released for
+- `Year_of_Release` — year of release
+- `Genre` — game genre
+- `NA_sales` — sales in North America (millions of copies sold)
+- `EU_sales` — sales in Europe (millions of copies sold)
+- `JP_sales` — sales in Japan (millions of copies sold)
+- `Other_sales` — sales in other regions (millions of copies sold)
+- `Critic_Score` — critic score (1-100)
+- `User_Score` — user score (1-100)
+- `Rating— ESRB` (Entertainment Software Rating Board) rating.
 
 # Libraries used:
 *pandas, numpy, scipy, matplotlib, seaborn, tqdm*
