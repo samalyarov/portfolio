@@ -6,7 +6,9 @@ Project consists of data pre-processing and its subsequent analysis.
 Main questions answered: is there a difference between overall profitability of different tariffs (and if so - then what is that difference), and is there a difference between clients from Moscow and other regions (in regards to how much money they bring the company).
 
 # Conclusions:
-1. There is a statistically significant difference in profitability between two tested tariffs, but there is no significant difference between clients from Moscow and other regions.
+1. Average phone call duration is longer among the "Ultra" tariff users. Average number of messages sent and MB used is likewise higher among the "Ultra" tariff users.
+2. Number of services used steadily increases throughout the year. That trend is common among all the users, although "Smart" tariff user's consumption increases linearly, while "Ultra" tariff users show no clear dynamic. It is also important to note that February appears to be the least active month among users in the database presented.
+3. There is a statistically significant difference in profitability between two tested tariffs, but there is no significant difference between clients from Moscow and other regions.
 
 # Data:
 "Users" dataset - containing information about users:
