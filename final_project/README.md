@@ -13,12 +13,13 @@ All aforementioned projects have been done separately and thus, are located in s
 [**Analyzing mobile app user behaviour**](https://github.com/samalyarov/practicum_projects/blob/main/final_project/Final%20project.%20Mobile%20App%20User%20Behaviour%20Analysis.ipynb)
 
 # Project description:
-Project features analysis of user behaviour within a marketplace app called 'Unnecessary things'. During the analysis **data was loaded, pre-processed and subsequently analysed. That analysis included statistical analysis** of conversion into the target action, as well as analysing several core behavioural patterns (creating user roadmaps based on logged data).
+Project features analysis of user behaviour within a marketplace app called 'Unnecessary things'. During the analysis data was loaded, pre-processed and subsequently analysed. That analysis included statistical analysis of conversion into the target action, as well as analysing several core behavioural patterns (creating user roadmaps based on logged data).
 
 A **presentation** was done as a result of that research with core points to demonstrate to the managers: https://disk.yandex.ru/i/clHuzxWsucVVLA
+
 A **dashboard** was also created, listing key important features at the request of app managers and owners: https://public.tableau.com/views/2_16730628439990/2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-User behaviour was analyzed by 'sessions'. **User activity was segmented into sessions based on time between their actions** - once the user has been inactive for 30 minutes his current session was treated as 'finished' and his next action was treated as a start of next session. 3**0 minutes were chosen based on average metric from Google Analytics and discussion with team lead** (as an appropriate time for mobile marketplace app).
+User behaviour was analyzed by 'sessions'. User activity was segmented into sessions based on time between their actions - once the user has been inactive for 30 minutes his current session was treated as 'finished' and his next action was treated as a start of next session. 30 minutes were chosen based on average metric from Google Analytics and discussion with team lead (as an appropriate time for mobile marketplace app).
 
 # Conclusions:
 
