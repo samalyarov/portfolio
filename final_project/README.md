@@ -15,7 +15,7 @@ All aforementioned projects have been done separately and thus, are located in s
 # Project description:
 Project features analysis of user behaviour within a marketplace app called 'Unnecessary things'. During the analysis data was loaded, pre-processed and subsequently analysed. That analysis included statistical analysis of conversion into the target action, as well as analysing several core behavioural patterns (creating user roadmaps based on logged data).
 
-A **presentation** was done as a result of that research with core points to demonstrate to the managers: https://disk.yandex.ru/i/clHuzxWsucVVLA
+A **presentation** was done as a result of that research with key points to demonstrate to the managers: https://disk.yandex.ru/i/clHuzxWsucVVLA
 
 A **dashboard** was also created, listing key important features at the request of app managers and owners: https://public.tableau.com/views/2_16730628439990/2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
