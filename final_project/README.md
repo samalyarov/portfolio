@@ -1,4 +1,4 @@
-Final project consisted of three separate tasks:
+**Final project consisted of three separate tasks:**
 1. Analysing user behaviour of mobile marketplace app.
 2. Analyzing results of A/B test conducted by another group of analysts. Apart from analysing the results themselves, recommendations were given on how to improve future A|B tests on the same platform.
 3. Analyzing the database of an app featuring book subscriptions. This project featured SQL-related skills.
@@ -114,7 +114,7 @@ Dataset `final_ab_participants.csv` — list of users included in A/B testing:
 
 <a id='SQL'></a>
 
-[*SQL**](https://github.com/samalyarov/practicum_projects/blob/main/final_project/Final%20project.%20SQL.ipynb)
+[**SQL**](https://github.com/samalyarov/practicum_projects/blob/main/final_project/Final%20project.%20SQL.ipynb)
 
 # Project description:
 Our company has recently purchased a big business which rotates around book subscriptions. Our job as an analyst is to analyze the database acquired with the sale to get some information about books, authors and publishers, as well as user ratings and reviews.
