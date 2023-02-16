@@ -30,4 +30,4 @@ Data points feature:
     - `costs` — marketing campaign expenses
 
 # Libraries used:
-*pandas, numpy, scipy, matplotlib, seaborn, datetime, tqdm*
+*pandas, numpy, matplotlib, seaborn, datetime, tqdm*
