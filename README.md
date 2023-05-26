@@ -1,5 +1,5 @@
 # Practicum_projects. 
-This is a repository with all projects that I have completed during my education at "Yandex Practicum" as an Data Analyst. Each folder contains one or more jupyter notebooks as well as a README file with description of the project, conclusions, description of data used, as well as a list of python libraries and tools used in that project.
+This is a repository with all data analysis projects that I am able to share. Some of them I have completed during my education at "Yandex Practicum" as an Data Analyst. Each folder contains one or more jupyter notebooks as well as a README file with description of the project, conclusions, description of data used, as well as a list of python libraries and tools used in that project.
 
 | Project name | Project Description | Libraries and tools used |
 | :--------------------: | :---------------------: |:---------------------------:|
