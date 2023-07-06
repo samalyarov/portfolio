@@ -1,5 +1,5 @@
 # Description
-The task was to create a dashboard displaying several key metrics of user interaction with topics on Yandex.Dzen platform. Work on that project was done on a remote server hosted by me on the Yandex.Cloud service. The work proceeded as follows:
+The task was to create a dashboard displaying several key metrics of user interaction with topics on Yandex.Xen platform. Work on that project was done on a remote server hosted by me on the Yandex.Cloud service. The work proceeded as follows:
 1. After installing PostgreSQL I have succesfully deployed a database on remote machine. Accessing the data was done via a SQLalchemy python library.
 2. Data pipeline has been developed - I have written a script that collects data over the required time period and used crontab to make that script run on designated time.
 3. Visualizing the data was done via a Tableau dashboard. Several filters were utilised when creating a dashboard, after which that dashboard was hosted on that remote machine. Dashboard link: https://public.tableau.com/views/-_16696899367580/sheet4?:language=en-US&:display_count=n&:origin=viz_share_link
