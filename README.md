@@ -4,7 +4,7 @@ This is a repository with all data analysis projects that I am able to share. So
 | Project name | Project Description | Libraries and tools used |
 | :--------------------: | :---------------------: |:---------------------------:|
 | [1.Big cities music](https://github.com/samalyarov/practicum_projects/tree/main/big_cities_music) | Comparing preferences and music consumption patterns of users from Moscow and Saint-Petersburg | *pandas* |
-| [2.Evaluating potential borrowers reliability](https://github.com/samalyarov/practicum_projects/tree/main/analysing_reliability) | Analysing the effect of various factors (marital status, salary, etc.) on borrowers reliablity and likelyhood to skip a loan payment. | *pandas, Tableau* |
+| [2.Evaluating potential borrowers reliability](https://github.com/samalyarov/practicum_projects/tree/main/analysing_reliability) | Analysing the effect of various factors (marital status, salary, etc.) on borrowers reliablity and likelyhood to skip a loan payment. | *pandas, tableau* |
 | [3.Real estate market analysis](https://github.com/samalyarov/practicum_projects/tree/main/real_estate_market) | Analysing the real estate market of Saint-Petersburg | *pandas, matplotlib, seaborn, tableau* |
 | [4.Telecom tariffs analysis](https://github.com/samalyarov/practicum_projects/tree/main/telecom_tariffs) | Analysing user behaviour and determening the profitability of various tariffs for the company | *pandas, numpy, matplotlib, seaborn, scipy* |
 | [5.Game marketplace analytics](https://github.com/samalyarov/practicum_projects/tree/main/game_marketplace) | Determining key patterns in game successes based on historical data on sales | *pandas, numpy, matplotlib, seaborn, scipy, tqdm* |
