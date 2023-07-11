@@ -1,6 +1,8 @@
 # Portfolio
 This is a repository with all data analysis projects that I am able to share. Some of them I have completed during my education at "Yandex Practicum" as an Data Analyst. Each folder contains one or more jupyter notebooks as well as a README file with description of the project, conclusions, description of data used, as well as a list of python libraries and tools used in that project.
 
+Note: the projects present mostly contain information in <u>RUSSIAN<u> language, and are present to showcase coding and analytical skills.
+
 | Project name | Project Description | Libraries and tools used |
 | :--------------------: | :---------------------: |:---------------------------:|
 | [1.Big cities music](https://github.com/samalyarov/practicum_projects/tree/main/big_cities_music) | Comparing preferences and music consumption patterns of users from Moscow and Saint-Petersburg | *pandas* |
