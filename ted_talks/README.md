@@ -2,6 +2,7 @@
 This projects features a dashboard creating after analysing a complex dataset with data regarding TED-talks throughout the last ~35 years. Dashboard was created in accordance with the Technical Assignment provided. 
 1. After loading the data it had to properly merged - 'UNION' was used to combine 3 separate tables with data on talks and other relationship types were used to properly add data from the two other tables. Based on the results of conducted EDA a date filter was added to all dashboards within the story, default setting was set to the year the initial jump in talks count happened - 2002.
 2. Various tools were used in creating the story: sets, calculated fields, LOD, actions, parameters etc. Four dashboards were created correlated to main themes within the dataset, with interactable graphs and conclusions written down on all of them. Those have been combined into a story and published on [Tableau.public](https://public.tableau.com/views/TED-Talks_16902911535330/TED-Talks?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link). Dashboards within the story are designed to be viewed in fullscreen mode (even though they're set to automatic on smaller resolutions graphs may not be fully displayed or may not be readable).
+3. A workbook can be downloaded either through the previous link or directly from here - the file is also in this folder. This file has been created for Tableu Public version 2023.2.
 
 # Conclusions
 Key conclusions as presented on the dashboard itself:
